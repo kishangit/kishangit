@@ -7,11 +7,11 @@
 
 <img align="right" margin-top="20px" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
-#### I am a Team Lead Engineer in Ruby on Rails at <a href="https://www.bacancytechnology.com/" target="_blank">Bacancy Technology</a>
-- I’m currently working on building boilerplate app code. To start development faster
-- I’m currently learning Golang.
-- 2024 Goals: Contribute to Open Source projects
-- I love coding in Vim editor but also using VS Code.
+#### I am a Senior Software Engineer in Ruby on Rails at Incubyte
+- I’m currently working on building Interview taker app using AI tools and open source models. To make interview process fast and easy.
+- I’m currently learning Looking for change.
+- Goal: Contribute to small Open Source projects, Create some projects which can help other people too and make real difference in their life.
+- I love coding in Vim editor but also using VS Code and Cursor.
 
 </br>
 
