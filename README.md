@@ -17,8 +17,12 @@
 
 <h3 align="left">▶ Connect with me:</h3>
   <p>
-    <a href="https://www.linkedin.com/in/kishan-dalwadi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
+    My Linkedin Profile: <a href="https://www.linkedin.com/in/kishan-dalwadi/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hgdsandakalum/)](https://www.linkedin.com/in/hgdsandakalum/"></a>
   </p>
+  <p>
+    My Email: <code id="email-text">dalwadikishan123@gmail.com</code>
+  </p>
+
 </br>
 
 <h3 align="left">▶ Languages and Tools:</h3>
